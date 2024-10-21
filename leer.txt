@@ -1,0 +1,15 @@
+Estimado profesor, por favor, sírvase leer:
+
+El código presentado tiene el siguiente contenido:
+- íconos github, google y facebook: Estos fueron sacados de la librería font-awesome de cloudflare (se referencia en el apartado de head del archivo HMTL)
+- Ingresar con: (sign-in)
+- Create account: (sign-up)
+- olvidé mi contraseña (forgot-password)
+
+
+
+Para el esqueleto html, estilo css, y scrpt usé este video como guía:
+https://www.youtube.com/watch?v=FGOLnUPpxWw
+
+escogí la fuente: "Playfair Display" de googlefonts, la cual se aplica a todas las clases usando "...font-family: "Playfair Display", sans-serif;..." en el apartado de *{} en style.css.
+
